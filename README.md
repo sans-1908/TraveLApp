@@ -1,16 +1,5 @@
-# travel_app
+Hello everyone, This is a travel UI APP which mainly consits of 3 screens providing features such as:
+1. Get Started screen- Here 3 sliders consists of beautiful user interface from where the app gets started
+2. Dashboard screen consisting on main page with adventures choosen by customers as well as trips provided
+3. On clicking on adventure, we can check locations of the mountains spots with selecting number of people included as well as rating options.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
